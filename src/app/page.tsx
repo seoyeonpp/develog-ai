@@ -1,3 +1,9 @@
+import { Button } from '@mui/joy'
+
 export default function Home() {
-  return <div>test</div>
+  return (
+    <div>
+      <Button>대시보드!!</Button>
+    </div>
+  )
 }
