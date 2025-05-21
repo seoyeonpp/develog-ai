@@ -17,7 +17,7 @@ Markdown, Notion, PDF, GitHub Pages 등으로 쉽게 Export할 수 있는 서비
 - TIL 자동 정리 (GPT 기반)
 - 회고 자동화 (주간 / 월간)
 - 추천 제목 & 썸네일 자동 생성
-- Markdown / Notion / PDF / Github Pages Export
+- Markdown / Notion / PDF / GitHub Pages Export
 - 작성 히스토리 관리
 - 커스텀 템플릿 지원 (Pro)
 
