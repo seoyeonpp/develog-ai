@@ -1,3 +1,4 @@
+'use client'
 import { Button } from '@mui/joy'
 
 export default function Home() {
